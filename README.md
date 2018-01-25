@@ -1,4 +1,4 @@
-Created simple blog application where you can create, edit, destroy, and comment on blog posts. Built upon this article: http://guides.rubyonrails.org/getting_started.html
+Created simple blog application where you can create, edit, destroy, and comment on blog posts. Built upon this guide: http://guides.rubyonrails.org/getting_started.html
 
 ![alt text](https://raw.githubusercontent.com/egosti/rails_mini_project/master/app_screenshot.png)
 
