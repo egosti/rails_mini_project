@@ -1,24 +1,5 @@
-# README
+Created simple blog application where you can create, edit, destroy, and comment on blog posts. Built upon this article: http://guides.rubyonrails.org/getting_started.html
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![alt text](http://app_screenshot.png)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Click on "NEW ARTICLE" to create a new blog post with a title and text box of your choice. Below is a list of existing posts, and you can view them to comment on them, edit them, or delete them.
